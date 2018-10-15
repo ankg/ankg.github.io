@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "Thinking"
+date:   2018-04-10 00:39:55 +0530
+categories: jekyll update
+---
+{% highlight ruby %}
+“If you think you are beaten you are,
+If you think you dare not you don't,
+If you want to win but think you can’t
+It’s almost a cinch you won't.  
+For our of the world we find,
+Success begins with a fellow’s will,
+It’s all in a state of mind.  
+For Life’s battles don't always go,
+To the stronger or the faster man,
+But sooner or later the man who wins
+Is the man who thinks he can”   
+{% endhighlight %}
+
+Today, I’ll delve into three stories that have touched my life and taught me to believe these lines with all my might.  
+
+__1.__ The first story is set back in the fresher year of my college. I was a nerd. I didn't have this beard, and you have no clue how pathetic that was. Enthusiastic, I was struck by Cupid. 5’4” with the eyes of a squirrel and a dusky skin tone, she was indeed my first distraction. We had a close knit group of friends and did everything together. You name it and we did it. Let me correct myself and put a star there - “under the purview of friendship”. She was my girlfriend, but only in rumours.  
+
+On a gloomy winter evening, I was told that I was no longer required. Sleep said Goodbye. Food Said Goodbye. Even my conscience was aloof. The only thing that stayed though? Courage. 
+I lacked in every single facet in life. My confidence was zero, my network infinitesimal and my influence probably negative. I was in no way the stronger man.   
+
+Weeks later, I was diagnosed with a stress induced illness. Bedridden for months, I pondered… I knew what I had to do.  
+Fast forward to my senior year, I was blessed to be the topmost student executive in college which implies my confidence, network and influence were at its peaks. 
+
+She came back and apologized. But all I said, was “thanks”. Because for all the tears in this story, she was my belief. SHe was the lesson that made me what I am. And as I turned to leave, all my brain recited was that    
+
+_“Life’s battles don't always go,  
+To the stronger or the faster man,  
+But sooner or later the man who wins  
+Is the man who thinks he can”_
+
+
+__2.__ The second story is set in my final year. Computer Science didn’t seem like my forte anymore. I decided to not pursue a software job. It was not like I was bad at it, I was good - but I made a choice. Microsoft, Samsung, Oracle.. All came and went. Day three of placements saw 67/75 students placed in my batch.
+
+I remember crying. Crying not because I was unplaced but crying because it was hard to stick to my decision any longer. But, I believed.
+Five months later, unplaced but unwavered I got a call from Goldman Sachs. <Describe a Typical Conversation>. And then it all came back to me.
+
+ Three months and twenty six interviews later, I was in. Yes, twenty six. I was told it was the highest for 2017, because Goldman Sachs. I’d gotten a nice, cushy job at Citi and the patience this process took was unimaginable. But I was yet again to be surprised by the power of belief. Only two lines that kept me going, that,    
+
+_“Life’s battles don’t always go,  
+To the stronger or the faster man,  
+But sooner or later the man who wins  
+Is the man who thinks he can”_
+
+
+__3.__ The third and most important story was set before I was born. A bedridden father, an uneducated mother, three siblings each under five years of age and a dwindling transport business. Someone had to put food on the table. A twelve year old boy was looking to a future that would never allow him to look back. That boy, none other than my father.
+
+Weak, young and inexperienced that he was - he started a new business with help from his uncle. And in a state like UP where everyone is ready to eat you out - it is not easy. But, he believed. He believed that if he stayed positive and worked hard, sooner or later, he will win.
+
+But the win didn’t come soon because by the age of twenty too, this business was dwindling too. Dot pens had replaced ink pens. With advice from my uncle this time, he set out on a new venture. With a big family to support this time, he could make no mistake. And luckily he didn’t. Thankfully, it had been putting food on our table ever since. 
+
+In my perspective, my father is the real embodiment of what I’m trying to convey today. His beliefs and values that he transferred to his two sons, the younger of which is here to tell you what he was taught that    
+
+_“Life’s battles don’t always go,  
+To the stronger or the faster man,  
+But sooner or later the man who wins  
+Is the man who thinks he can”_
